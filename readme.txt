@@ -5,3 +5,4 @@ Git track change
 My stupid boss still prefer SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple
+for testing --no-ff
